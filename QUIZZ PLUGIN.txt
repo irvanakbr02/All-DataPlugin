@@ -1,0 +1,16 @@
+QUIZZ PLUG IN
+
+daftar rpel.it
+gawe folder new repl nama 
+html javascript
+editor online,preview
+1. tuliskan nama kalian dengan <h1> dan warnanya merah inline css
+2. alasaan kalian masuk plug in <b> mengggunakan tag <p>
+3. buat list riwayat pendidikan menggunakan order list <ol><li>
+4. buat list akun sosmed yg langsung ngedirect ke sosmed menggunakan <ul>
+5. buat bg web menjadi abu abu menggunakan eksternal css
+6. alamat lengkap text <p> dan berjalaan <marquee>
+7. muat tokoh artis atau idola kalian menggunkan link gambar dan width 300px height 400px internal css
+8. penjelasan alasan milih tokoh tsb dengan warna terserah <p> dan inline css
+9. biografi tokoh tadi  (inline css) warnanya ekternal css
+10. menggunakan font hellvetica ukuran = 14px dan warna putih (inline css)

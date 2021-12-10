@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="style.css" rel="stylesheet" type="text/css"/>
+    <style>
+     .warna1 {
+       color:red;
+     }
+    .image {
+      width:300px;
+      height:400px;
+    }
+    .eks{
+      font-size:14px;
+    }
+        </style>
+      </head>
+  <body>
+      <h1 class="warna1" >Irvan Akbar Febriansyah</h1>
+      <p><b>Alasan Masuk PLUGIN </b></p>
+      <p>Karna bosan dirumah,gabut,ingin gabung komunitas agar bertemu orang baru dan sekaligus dapet ilmu tambahan</p>
+      <p> riwayat pendididkan</p>
+      <ol>
+        <li>SD Randugunting 1</li>
+        <li>SMP N 15 Tegal</li>
+        <li>SMKN 1 Adiwerna</li>
+      </ol>
+      <p>SOSMED GUE</p>
+      <ul>
+        <li>
+          <a href="https://web.facebook.com/IrvanAF02/" target="_blank">facebook gue</a> 
+        </li>
+        <li><a href="https://www.instagram.com/irvanakbr02/" target="_blank">instagram gue     </a></li>
+      </ul>
+      <p>Alamat Lengkap GUE</p>
+      <p><marquee>alamat gue : ASPOL R SOEPRAPTO JL KS Tubub BLOK F NO 40 </marquee></p>
+
+      <p> IDOLA GUE </p>
+      <a href="https://liquipedia.net/dota2/AdmiralBulldog">
+      <img class="image" src="https://liquipedia.net/commons/images/thumb/6/66/AdmiralBulldog_EPICENTER_XL.jpg/600px-AdmiralBulldog_EPICENTER_XL.jpg" "></a>
+
+      <p>BIOGRAFI AdmiralBulldog</p>
+      <div class="eks"><p style="font-family:Helvetica;">Originally a pub player with an astounding number of Lone Druid games under his belt, he was introduced to the competitive scene by Dendi, who brought him in as a stand-in for Na`Vi.[1] Enjoying the level of play in the competitive scene, AdmiralBulldog began looking for a team and eventually ended up in No Tidehunter, which would later become Alliance
+      Due to the fact that he rarely plays other heroes than Lone Druid, Nature's Prophet, Bounty Hunter or Clockwerk, AdmiralBulldog has been criticized for having a limited hero pool,[by whom?] he however justified this by referring to the metagame and his capability to adapt if needed</p>
+  </div>
+      
+    </body>
+</html>
